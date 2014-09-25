@@ -1,0 +1,6 @@
+P:\repro\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\bin\Debug\1DV402-jl223jq-1-2-rita-med-asterisker.exe.config
+P:\repro\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\bin\Debug\1DV402-jl223jq-1-2-rita-med-asterisker.exe
+P:\repro\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\bin\Debug\1DV402-jl223jq-1-2-rita-med-asterisker.pdb
+P:\repro\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\obj\Debug\1DV402-jl223jq-1-2-rita-med-asterisker.csprojResolveAssemblyReference.cache
+P:\repro\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\obj\Debug\1DV402-jl223jq-1-2-rita-med-asterisker.exe
+P:\repro\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\1DV402-jl223jq-1-2-rita-med-asterisker\obj\Debug\1DV402-jl223jq-1-2-rita-med-asterisker.pdb
