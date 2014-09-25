@@ -15,21 +15,18 @@ namespace _1dv402_1._2
             for (int row = 0; row <= 26; row++)
             {
                 //Ger färg till asterisken
-                switch (asterisk)
+                switch (row % 3)
                 {
-                    case 1:
+                    case 0:
                         Console.ForegroundColor = ConsoleColor.Yellow;
-                        asterisk++;
+                        break;
+
+                    case 1:
+                        Console.ForegroundColor = ConsoleColor.Magenta;
                         break;
 
                     case 2:
-                        Console.ForegroundColor = ConsoleColor.Magenta;
-                        asterisk++;
-                        break;
-
-                    case 3:
                         Console.ForegroundColor = ConsoleColor.Green;
-                        asterisk = 1; // Återställer "asterisk" till sitt ursprungliga värde
                         break;
                 }
                 //Ser till att det görs ett mellanrum i början av varannan rad
